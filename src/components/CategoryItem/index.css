@@ -1,0 +1,21 @@
+.categoryBtn {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  color: #64748b;
+  font-size: 22px;
+  cursor: pointer;
+ 
+  margin: none;
+}
+.activeCategory {
+  color: #0967d2;
+}
+.categoryName {
+  padding: 0px;
+  margin: none;
+}
+.cateText {
+  padding: none;
+  margin:10px 5px;
+}

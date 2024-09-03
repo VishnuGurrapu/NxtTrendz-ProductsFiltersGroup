@@ -1,0 +1,18 @@
+.ratingicon {
+  height: 25px;
+}
+.ratingBtn {
+  display: flex;
+  outline: none;
+  border: none;
+  background-color: transparent;
+  color: #64748b;
+  font-size: 22px;
+  cursor: pointer;
+  align-items: center;
+  padding: 0px;
+  margin: 0px;
+}
+.activeRating {
+  color: #0967d2;
+}
